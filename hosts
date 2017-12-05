@@ -1,8 +1,7 @@
-# This is my personal list for PiHole. You may use it at your own risk.
-#
+# This is my personal list for PiHole. You may use it at your own risk/responsibilty. Don't screw your network up.
 #
 # I have added domains I don't like for any arbitrary reason.
-# I don't care if they appear in any other blocklist.
+# I don't care if they also appear in any other blocklist.
 #
 
 127.0.0.1    bild.de
