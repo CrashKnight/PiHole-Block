@@ -1,8 +1,9 @@
 # This is my personal list for PiHole. You may use it at your own risk/responsibilty. Don't screw your network up.
 #
-# I have added domains I don't like for any arbitrary reason.
+# I have added domains I don't like for any arbitrary reason or no reason.
 # I don't care if they also appear in any other blocklist.
 #
+# Any reason:
 
 127.0.0.1    bild.de
 127.0.0.1    m.bild.de
@@ -16,7 +17,12 @@
 127.0.0.1    app3.speedup-mac.fun
 127.0.0.1    app4.speedup-mac.fun
 127.0.0.1    app5.speedup-mac.fun
+127.0.0.1    adimg.uimserv.net 
+127.0.0.1    ad11.adfarm1.adition.com 
+127.0.0.1    volksfreund.de
 
+# Known Scam
+127.0.0.1    pypal.kunden-sicherung.in # Scam Mail received on 01/11/18 
 
 # Press https://ssl.marktwaechter.de/pressemeldung/marktwaechterwarnung-dubioses-streaming-netzwerk-lockt-verbraucher-abofalle
 # Ad filter list http://docs.dpaq.de/13049-liste-streaming_vzrlp.pdf
